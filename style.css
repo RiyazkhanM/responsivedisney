@@ -1,0 +1,67 @@
+.img
+{
+    background-image: url(media/dcl_desktop_in_unlimited_d3aa26fd.jpeg);
+    padding: 250px;
+    background-size: cover;
+    margin-bottom: 0%;
+    background-repeat: no-repeat;
+    
+}
+.img1{
+   height: 400px;
+}
+.card-title
+{
+    margin-top: 300px;
+    margin-left: 50px;
+    font-size: x-large;
+}
+.link1{
+    margin-top: 300px;
+    margin-left: 90px;
+    font-size: medium;
+
+}
+.drama
+{
+    margin-top: 300px;
+    margin-left: 50px;
+    margin-bottom: 0%;
+    font-size: x-large;
+}
+.spider
+{
+    width: fit-content;
+}
+.force{
+    margin-left: 50px;
+    padding: 10px;
+}
+.ride{
+    background-size: cover;
+}
+.pica{
+    height: 85%;
+    width: 100%;
+    gap: 500px;
+}
+.final
+{
+    margin-bottom: 150px;
+}
+.social
+{
+    justify-content: space-around;
+}
+.end{
+    display: flex;
+    
+}
+.img1 {
+    transition: box-shadow 0.5s, transform 0.5s;
+  }
+  
+  img:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transform: scale(1.1);
+  }
